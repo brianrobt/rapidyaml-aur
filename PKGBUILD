@@ -1,4 +1,5 @@
-# Maintainer: Maxime Gauduin <alucryd@archlinux.org>
+# Maintainer: Brian Thompson <brianrobt@pm.me>
+# Contributor: Maxime Gauduin <alucryd@archlinux.org>
 # Contributor: xiretza <xiretza+aur@xiretza.xyz>
 
 pkgbase=rapidyaml
